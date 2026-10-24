@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://officialasad2917-svg.github.io/Paper-kit-Pdf-tools-/sitemap.xml

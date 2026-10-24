@@ -1,17 +1,13 @@
-
-
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://officialasad2917-svg.github.io/Paper-kit-Pdf-tools-/</loc>
-  </url>
-  <url>
-    <loc>https://officialasad2917-svg.github.io/Paper-kit-Pdf-tools-/about.html</loc>
-  </url>
-  <url>
-    <loc>https://officialasad2917-svg.github.io/Paper-kit-Pdf-tools-/contact.html</loc>
-  </url>
-  <url>
-    <loc>https://officialasad2917-svg.github.io/Paper-kit-Pdf-tools-/privacy.html</loc>
-  </url>
+  <url><loc>https://officialasad2917-svg.github.io/Paper-kit-Pdf-tools-/</loc></url>
+  <url><loc>https://officialasad2917-svg.github.io/Paper-kit-Pdf-tools-/merge-pdf.html</loc></url>
+  <url><loc>https://officialasad2917-svg.github.io/Paper-kit-Pdf-tools-/split-pdf.html</loc></url>
+  <url><loc>https://officialasad2917-svg.github.io/Paper-kit-Pdf-tools-/rotate-pdf.html</loc></url>
+  <url><loc>https://officialasad2917-svg.github.io/Paper-kit-Pdf-tools-/images-to-pdf.html</loc></url>
+  <url><loc>https://officialasad2917-svg.github.io/Paper-kit-Pdf-tools-/pdf-to-images.html</loc></url>
+  <url><loc>https://officialasad2917-svg.github.io/Paper-kit-Pdf-tools-/about.html</loc></url>
+  <url><loc>https://officialasad2917-svg.github.io/Paper-kit-Pdf-tools-/contact.html</loc></url>
+  <url><loc>https://officialasad2917-svg.github.io/Paper-kit-Pdf-tools-/privacy.html</loc></url>
+  <url><loc>https://officialasad2917-svg.github.io/Paper-kit-Pdf-tools-/terms.html</loc></url>
 </urlset>
